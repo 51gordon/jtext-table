@@ -8,7 +8,7 @@ public class TestMain {
     String[] header = {"姓名", "年龄", "收入"};
     String[][] rows = {
         {"tom", "18", "100"},
-        {"cat", "26", "2000", null},
+        {"cat", "26", null},
         {"奥巴马儿", "250", "0"}
     };
     System.out.println(new TextTable(header, rows));
