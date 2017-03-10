@@ -7,11 +7,10 @@ public class TestMain {
   public static void main(String[] args) {
     String[] header = {"姓名", "年龄", "收入"};
     String[][] rows = {
-        {"张三", "18", "100"},
-        {"李四", "26", "2000", null},
+        {"tom", "18", "100"},
+        {"cat", "26", "2000", null},
         {"奥巴马儿", "250", "0"}
     };
-
     System.out.println(new TextTable(header, rows));
   }
 }
