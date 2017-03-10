@@ -22,7 +22,7 @@ public class TestMain {
     String[] header = {"name", "age", "income"};
     String[][] rows = {
         {"tom", "18", "100"},
-        {"cat", "26", "2000", null},
+        {"cat", "26", null},
         {"奥巴马儿", "250", "0"}
     };
     System.out.println(new TextTable(header, rows));
