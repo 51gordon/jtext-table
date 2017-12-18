@@ -1,4 +1,4 @@
-package com.kael.jtexttable;
+package com.github.cgdon.jtexttable;
 
 import java.util.Arrays;
 

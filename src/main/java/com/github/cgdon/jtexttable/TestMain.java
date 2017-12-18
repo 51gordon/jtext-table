@@ -1,4 +1,4 @@
-package com.kael.jtexttable;
+package com.github.cgdon.jtexttable;
 
 /**
  * Created by 成国栋 on 2017-03-10 23:22:00.
